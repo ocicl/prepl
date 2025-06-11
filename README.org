@@ -4,6 +4,6 @@ prepl is a REPL implementation, also known as a Lisp listener
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/sharplispers/prepl.git |
-| commit  | 6c86bb5                                       |
+| commit  | 5299ce9                                       |
 | systems | prepl                                         |
 |---------+-----------------------------------------------|
